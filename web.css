@@ -1,0 +1,117 @@
+
+
+.box{
+
+    width: 30%;
+    border: 2px solid gray;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 2px;
+    box-shadow: 4px 4px 4px rgb(243, 194, 194);
+}
+
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.picture{
+    width: 200px;
+    height: 200px;
+}
+
+.input-div{
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    margin-left:200px ;
+    
+}
+
+#search-filed{
+
+    width: 40%;
+    text-align: center;
+    height: 50px;
+    border: 2px solid rgb(253, 183, 183);
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px gray;
+    
+}
+
+#btn{
+    height: 40px;
+    width: 100px;
+    border: 2px solid rgb(255, 252, 252);
+    border-radius: 6px ;
+    background-color: tomato;
+    color: whitesmoke;
+    
+
+
+}
+.main-container{
+    margin: 60px;
+}
+
+.onbtn{
+
+    margin: 10px;
+}
+
+.first-box{
+
+        margin-left: 40%;
+   
+}
+
+.list{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+.list:hover{
+
+    
+    cursor: pointer;
+    color: brown;
+    
+}
+.navi{
+    
+    text-align: center;
+    padding: 30px;
+}
+
+nav{
+
+    height: 100px;
+    background-color: gray;
+    color: white;
+}
+
+.pic{
+    height: 100px;
+    width: 70px;
+
+}
+
+
+.main_div{
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+    margin: 60px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 4px 8px 4px gray;
+    padding: 10px;
+
+}
+
+
+.chobi{
+    height: 60px;
+}
